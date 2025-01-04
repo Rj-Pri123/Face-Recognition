@@ -9,5 +9,7 @@ This project is a **Face Emotion Detection System** that can recognize human emo
 
 ## How to Run the Project
 1. **Clone the Repository**
-   ```bash
+   git clone https://github.com/Rj-Pri123/Face-Recognition.git
+cd Face-Recognition
+
    
